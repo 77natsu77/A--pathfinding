@@ -105,7 +105,7 @@ This is a compact in-place closed-set implementation.
 ### Run It
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/astar-pathfinding-csharp.git
+git clone https://github.com/77natsu77/astar-pathfinding-csharp.git
 cd astar-pathfinding-csharp
 dotnet run
 ```
